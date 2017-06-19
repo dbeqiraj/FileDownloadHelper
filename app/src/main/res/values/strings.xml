@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FDHExample</string>
+    <string name="title_activity_mp3">Mp3Activity</string>
+    <string name="title_activity_pdf">PdfActivity</string>
+    <string name="title_activity_mp4">Mp4Activity</string>
+
+    <string name="load_mp3">Load MP3</string>
+    <string name="load_pdf">Load PDF</string>
+    <string name="load_mp4">Load MP4</string>
+
+</resources>
